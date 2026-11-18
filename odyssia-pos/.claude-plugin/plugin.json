@@ -15,5 +15,6 @@
     "retail",
     "invoices"
   ],
-  "repository": "https://github.com/oudinalabs-rgb/odyssia-claude-plugin"
+  "repository": "https://github.com/oudinalabs-rgb/odyssia-claude-plugin",
+  "icon": ".claude-plugin/icon.png"
 }
