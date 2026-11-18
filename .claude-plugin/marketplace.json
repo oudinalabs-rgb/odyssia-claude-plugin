@@ -1,0 +1,17 @@
+{
+  "name": "oudina-labs",
+  "owner": {
+    "name": "Oudina Labs LLC",
+    "email": "support@oudinalabs.com"
+  },
+  "plugins": [
+    {
+      "name": "odyssia-pos",
+      "source": "./odyssia-pos",
+      "description": "Odyssia POS for Claude: stock, sales, purchase drafts and profit from your own shop computer.",
+      "version": "1.0.0",
+      "category": "productivity"
+    }
+  ],
+  "description": "Plugins by Oudina Labs LLC for Claude."
+}

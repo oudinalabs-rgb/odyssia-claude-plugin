@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "odyssia": {
+      "command": "node",
+      "args": ["${CLAUDE_PLUGIN_ROOT}/server/index.cjs"],
+      "env": {
+        "ODYSSIA_PORT": "${ODYSSIA_PORT:-38765}",
+        "ODYSSIA_TOKEN": "${ODYSSIA_TOKEN}"
+      }
+    }
+  }
+}

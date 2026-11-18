@@ -1,0 +1,19 @@
+{
+  "name": "odyssia-pos",
+  "version": "1.0.0",
+  "description": "Lets Claude work with your Odyssia POS shop on this computer: read stock and sales, find catalogue mistakes, and turn a dictated or photographed purchase invoice into a draft you approve in Odyssia.",
+  "author": {
+    "name": "Oudina Labs LLC",
+    "email": "support@oudinalabs.com",
+    "url": "https://oudinalabs.com/"
+  },
+  "homepage": "https://oudinalabs.com/odyssia",
+  "license": "UNLICENSED",
+  "keywords": [
+    "pos",
+    "inventory",
+    "retail",
+    "invoices"
+  ],
+  "repository": "https://github.com/oudinalabs-rgb/odyssia-claude-plugin"
+}
